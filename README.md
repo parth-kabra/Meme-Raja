@@ -18,4 +18,4 @@
 ``
 This commands returns a cool and dank meme in the discord channel !
 
-<img src="demo.PNG" width=500/>
+<img src="img/demo.PNG" width=500/>
