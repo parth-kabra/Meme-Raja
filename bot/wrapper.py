@@ -1,4 +1,6 @@
 from praw import Reddit
+from random import choice
+
 client_id = "XXX"
 client_secret = "XXX"
 user_agent = "XXX"
